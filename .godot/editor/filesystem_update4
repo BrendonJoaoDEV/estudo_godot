@@ -1,1 +1,3 @@
-res://hello_world.tscn
+res://aula002_instaciamento/Main.tscn
+res://aula001_hello_world/hello_world.tscn
+res://aula002_instaciamento/Ball.tscn
