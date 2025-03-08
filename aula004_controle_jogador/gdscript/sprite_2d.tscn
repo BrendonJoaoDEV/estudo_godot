@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://b18jfaunfim2j"]
+
+[ext_resource type="Texture2D" uid="uid://8epe67yqenk" path="res://aula004_controle_jogador/assets/godot_icon.svg" id="1_r2c1r"]
+[ext_resource type="Script" uid="uid://bfr1krd8jdsd1" path="res://aula004_controle_jogador/gdscript/sprite_2d.gd" id="2_b41ln"]
+
+[node name="Sprite2D" type="Sprite2D"]
+position = Vector2(308, 203)
+scale = Vector2(0.6875, 0.632812)
+texture = ExtResource("1_r2c1r")
+script = ExtResource("2_b41ln")

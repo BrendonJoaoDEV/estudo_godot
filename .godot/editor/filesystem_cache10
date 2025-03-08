@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1741465345
+::res://::1741470724
 readme.md::TextFile/TextFile::-1::1741300482::0::1::::<><><>0<>0<><>::
 ::res://aula001_hello_world/::1741384777
 hello_world.tscn::PackedScene/PackedScene::8772461549990941668::1741384777::0::1::::<><><>0<>0<><>::
@@ -13,8 +13,13 @@ README.md::TextFile/TextFile::-1::1722317234::0::1::::<><><>0<>0<><>::
 ballBlue_10.png::CompressedTexture2D/CompressedTexture2D::8698298520458212912::1722317234::1741384480::1::::<><><>0<>0<>9ff7aa57b2160bfb4c972926cfc03431<>res://.godot/imported/ballBlue_10.png-8d9df5ad1ae6ea1336b139cf1753245e.ctex::
 Bouncy Platform Long.png::CompressedTexture2D/CompressedTexture2D::7895792475247486234::1722317234::1741384480::1::::<><><>0<>0<>77380d30857201b41b8505a66e5dd9e1<>res://.godot/imported/Bouncy Platform Long.png-ed303b6cf1fc4083db09fa34898d88af.ctex::
 Bouncy Platform Medium.png::CompressedTexture2D/CompressedTexture2D::3192301516354317244::1722317234::1741384480::1::::<><><>0<>0<>3404f74450721536bfb9e43f9dd36a3f<>res://.godot/imported/Bouncy Platform Medium.png-0d72196c89029a48eb4de19cd1912c14.ctex::
-::res://aula003_primeiro_codigo/::1741465331
-::res://aula003_primeiro_codigo/assets/::1741465331
-godot_icon.svg::CompressedTexture2D::8897585577341484623::1741465215::1741465347::1::::<><><>0<>0<>356819b374cf25574297fff56e0cbfdc<>res://.godot/imported/godot_icon.svg-a14528146774227f215cf3c196b059d2.ctex::
-::res://aula003_primeiro_codigo/c_sharp/::1741465305
-::res://aula003_primeiro_codigo/gdscript/::1741465299
+::res://aula003_primeiro_codigo/::1741469847
+::res://aula003_primeiro_codigo/assets/::1741465347
+godot_icon.svg::CompressedTexture2D/CompressedTexture2D::8897585577341484623::1741465215::1741465347::1::::<><><>0<>0<>356819b374cf25574297fff56e0cbfdc<>res://.godot/imported/godot_icon.svg-a14528146774227f215cf3c196b059d2.ctex::
+::res://aula003_primeiro_codigo/gdscript/::1741469874
+sprite_2d.gd::GDScript/GDScript::6974412439213969818::1741467039::0::1::::<>Sprite2D<><>0<>0<><>::
+sprite_2d.tscn::PackedScene/PackedScene::8785466356150185460::1741469874::0::1::::<><><>0<>0<><>::uid://dy1b61j2cguh8::::res://aula003_primeiro_codigo/assets/godot_icon.svg<>uid://c6mps3kp1dqu1::::res://aula003_primeiro_codigo/gdscript/sprite_2d.gd
+::res://aula004_controle_jogador/::1741470474
+::res://aula004_controle_jogador/assets/::1741470527
+godot_icon.svg::CompressedTexture2D::68394380232588948::1741465215::1741470724::1::::<><><>0<>0<>332b69db75778dd6261a9fe387046c40<>res://.godot/imported/godot_icon.svg-4dc28687b4b2bb142fde75dde4e5e161.ctex::
+::res://aula004_controle_jogador/gdscript/::1741470474
