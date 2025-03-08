@@ -1,3 +1,2 @@
-res://aula002_instaciamento/Main.tscn
-res://aula001_hello_world/hello_world.tscn
-res://aula002_instaciamento/Ball.tscn
+res://aula003_primeiro_codigo/gdscript/sprite_2d.gd
+res://aula003_primeiro_codigo/gdscript/sprite_2d.tscn
