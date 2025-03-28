@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://dbywiht5akul0"]
+
+[ext_resource type="PackedScene" uid="uid://dxf0l2q18y5oq" path="res://aula003_primeiro_codigo/gdscript/sprite_2d.tscn" id="1_cyxlb"]
+[ext_resource type="Texture2D" uid="uid://de1xhpfqf385i" path="res://aula005_sinais/assets/godot_icon.svg" id="2_ag8e8"]
+[ext_resource type="Script" uid="uid://bdnscbdt4lvwy" path="res://aula005_sinais/gdscript/sprite_2d.gd" id="3_dxxkj"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+offset_left = 37.0
+offset_top = 29.0
+offset_right = 160.0
+offset_bottom = 69.0
+text = "Andar/Parar"
+
+[node name="Sprite2D" parent="." instance=ExtResource("1_cyxlb")]
+position = Vector2(372, 242)
+texture = ExtResource("2_ag8e8")
+script = ExtResource("3_dxxkj")
+
+[connection signal="pressed" from="Button" to="Sprite2D" method="_on_button_pressed"]
